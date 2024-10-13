@@ -1,0 +1,5 @@
+{
+  "connectionString":"mongodb+srv://Advik0709:Vivek0712@cluster0.nwyutmk.mongodb.net/",
+  "secret":"Vivek0712",
+  "mongoTimeout":20000
+}
